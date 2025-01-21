@@ -4,21 +4,22 @@
 
 ###
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <!-- Imagem à esquerda -->
-  <img align="left" height="250" src="https://github.com/user-attachments/assets/4c708fad-cbe0-4369-aef3-1fa178349be2" />
-  
-  <!-- Texto à direita -->
-  <div style="margin-left: 20px;">
-    <h1 align="center">Hello</h1>
-    <h3 align="left">👩‍💻 About Me</h3>
-    <p align="left">
-      I'm a Fullstack Developer From Brazil<br><br>
-      🔭 I am working at Global Data (a software company that manages the healthcare system in my region).<br>
-      ⚡ In my free time, I like to go to the gym and play video games.
-    </p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="280" src="https://github.com/user-attachments/assets/4c708fad-cbe0-4369-aef3-1fa178349be2" />
+    </td>
+    <td>
+      <h1 align="center">Hello</h1>
+      <h3>👩‍💻 About Me</h3>
+      <p>
+        I'm a Fullstack Developer From Brazil<br><br>
+        🔭 I am working at Global Data (a software company that manages the healthcare system in my region).<br>
+        ⚡ In my free time, I like to go to the gym and play video games.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ###
 
