@@ -2,7 +2,7 @@
   <ul>
     <li> 🙌Prazer, meu nome é Carlos Eduardo.</li>
     <li> 📖Estudante universitário de ADS na IFSP (4° Semestre).</li>
-    <li> 💻Programo por prazer e atualizo o gitHub quando aparece algum tempo livre.</li>
+    <li> 💻Adoro desafios</li>
     <li> 🖊️Ainda com muito aprender.</li>
   </ul>
 </section>
