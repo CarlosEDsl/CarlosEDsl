@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="690" src="https://github.com/user-attachments/assets/10d2396d-1c0d-46d8-a2b2-0c6698a4d243"  />
+  <img height="600" src="https://github.com/user-attachments/assets/10d2396d-1c0d-46d8-a2b2-0c6698a4d243"  />
 </div>
 
 ###
@@ -7,7 +7,7 @@
 <img align="left" height="250" src="https://github.com/user-attachments/assets/4c708fad-cbe0-4369-aef3-1fa178349be2"  />
 
 ###
-<div align="right">
+
 <h1 align="center">Hello</h1>
 
 ###
@@ -19,7 +19,6 @@
 <p align="left">I'm a Fullstack Developer From Brazil<br><br>🔭 I am working at Global Data (a software company that manages the healthcare system in my region).<br>⚡ In my free time, I like to go to the gym and play video games.</p>
 
 ###
-</div>
 
 <h3 align="left">🛠 Language and tools</h3>
 
