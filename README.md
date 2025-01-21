@@ -10,7 +10,7 @@
       <img height="280" width="280" src="https://github.com/user-attachments/assets/4c708fad-cbe0-4369-aef3-1fa178349be2" />
     </td>
     <td>
-      <h1 align="center">Hello</h1>
+      <h1 align="center">Hello, Nice to meet you</h1>
       <h3>👩‍💻 About Me</h3>
       <p>
         I'm a Fullstack Developer From Brazil<br><br>
