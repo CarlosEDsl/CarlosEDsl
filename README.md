@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <img height="280" src="https://github.com/user-attachments/assets/4c708fad-cbe0-4369-aef3-1fa178349be2" />
+      <img height="280" width="280" src="https://github.com/user-attachments/assets/4c708fad-cbe0-4369-aef3-1fa178349be2" />
     </td>
     <td>
       <h1 align="center">Hello</h1>
