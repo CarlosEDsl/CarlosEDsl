@@ -14,7 +14,7 @@
       <h3>👩‍💻 About Me</h3>
       <p>
         I'm a Fullstack Developer From Brazil<br><br>
-        🔭 I am working at Global Data (a software company that manages the healthcare system in my region).<br>
+        🔭 I am working at MindGroup.<br>
         ⚡ In my free time, I like to go to the gym and play video games.
       </p>
     </td>
